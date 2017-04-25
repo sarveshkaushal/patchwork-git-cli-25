@@ -4,3 +4,5 @@ server:
 spring:
   application:
     name: eos-A
+    
+message: 'FROM CONFIGS'
